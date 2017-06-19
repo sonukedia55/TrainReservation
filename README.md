@@ -16,6 +16,12 @@ It has 3 main section
 
 Different **.txt** keeps database of train information.
 
+> booked.txt keeps **train no.**- **seat no.** - **Passanger Name**
+> no_booked.txt keeps number of seat had been booked
+> today.txt keeps the today date for making seats dynamic with dates
+> train.txt keeps all the seats available for 7 days of all the trains
+> train_station.txt keeps **train no.** - **no. of stations** - **Related stations in _DodecHexa decimal encyrpted_**
+
 
 
 
@@ -25,6 +31,6 @@ Different **.txt** keeps database of train information.
 
 ## At **Admin** it is password protected here it is *SONUKEDIA* you can change from code
 
-You can add train and check all the booked ticket.
+#### You can add train and check all the booked ticket.
 
 
